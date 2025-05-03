@@ -7,3 +7,5 @@ curl -O https://raw.githubusercontent.com/Blobby-Boi/BlobeVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
+
+AND U KNOW WHAT. THIS HOPEFULLY ADDS THE 500 GIGS U NEED. VERY EASY CHANGE. WELL. I HOPE.
